@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Remera Titular Boca",
+    "description": "Remera azul y amarilla boca juniors",
+    "code": "CA1",
+    "price": 200000,
+    "status": true,
+    "stock": 5,
+    "category": "ropa",
+    "thumbnails": ["img/remera-1.jpg"]
+  },
+  
+  {
+    "id": "2",
+    "title": "Remera Suplente Boca",
+    "description": "Remera amarilla boca juniors",
+    "code": "CA2",
+    "price": 180000,
+    "status": true,
+    "stock": 3,
+    "category": "ropa",
+    "thumbnails": ["img/remera-2.jpg"]
+  },
+  
+  {
+    "id": "3",
+    "title": "Remera Alternativa Boca",
+    "description": "Remera blanca y amarilla boca juniors",
+    "code": "CA3",
+    "price": 150000,
+    "status": true,
+    "stock": 7,
+    "category": "ropa",
+    "thumbnails": ["img/remera-3.jpg"]
+  }
+  
+]

@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "entregaunograssigeremias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geregrassi12/EntregaN1-GeremiasGrassi.git"
+  },
+  "author": "Geremias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geregrassi12/EntregaN1-GeremiasGrassi/issues"
+  },
+  "homepage": "https://github.com/geregrassi12/EntregaN1-GeremiasGrassi#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
